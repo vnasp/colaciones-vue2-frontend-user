@@ -13,8 +13,8 @@ const routes = [
     component: () => import("../views/ProductsView.vue"),
     props: (route) => {
       return {
-        nombre: "Charquican",
-        descripcion: "Wuakala",
+        nombre: "Desayunos",
+        descripcion: "Contamos con desayunos nutritivos y deliciosos.",
         precio: 2000,
         cantidad: "Para dos personas",
       };
