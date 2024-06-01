@@ -13,10 +13,7 @@ body {
 .navbar-brand img {
   height: 3.3125rem;
 }
-#productos {
-  padding-top: 3.75rem;
-}
-#productos h1 {
+h1 {
   padding: 60px 0px;
 }
 

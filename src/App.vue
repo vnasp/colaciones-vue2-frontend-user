@@ -21,3 +21,11 @@ export default {
   }
 }
 </script>
+<style>
+.button{
+  margin-top:10px;
+  padding:5px;
+  color: white;
+  background-color:rgb(232, 62, 140);
+}
+</style>
