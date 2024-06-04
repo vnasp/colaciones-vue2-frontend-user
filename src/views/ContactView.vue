@@ -10,6 +10,7 @@
 import BackToHome from './../components/BackToHome.vue'
 
 export default {
+  name: 'Contacto',
   components: {
     BackToHome
   },

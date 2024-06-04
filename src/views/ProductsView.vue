@@ -31,6 +31,7 @@
 import BackToHome from './../components/BackToHome.vue'
 
 export default {
+  name: 'Productos',
   components: {
     BackToHome
   },
